@@ -5,4 +5,6 @@ _EN=Variables
 ++D=BOOL	N=JbO1	G=VAR
 ++D=BOOL	N=Jb2	G=VAR
 ++D=BOOL	N=JbO2	G=VAR
+++D=BOOL	N=Jb3	G=VAR
+++D=BOOL	N=JbO3	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup

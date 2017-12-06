@@ -205,6 +205,37 @@
                       </Entity>
                     </ChildEntities>
                   </Entity>
+                  <Entity type="Program" subtype="StructuredText" id="0341fe97-ad96-420f-b214-39a3bed869d8" name="JB_ST1" version="0" dateCreated="12/06/2017 15:44:24" dateLastModified="12/06/2017 15:45:10" author="Justin Baker" trackingId="797ea543-e4e9-48e5-91ba-4ed744ce5056" DN="JB_ST1">
+                    <AccessInfos />
+                    <ChildEntities>
+                      <Entity type="DebugProgramSetting" subtype="" id="c8428bbb-7367-4a69-bb00-057e12e2a4fc" name="DebugProgramSetting0.00" version="0" dateCreated="12/06/2017 15:44:24" dateLastModified="12/06/2017 15:45:10" trackingId="2ec4fb2d-6359-4d94-8aad-b2290436ec31" hash="1ba7c2b4868fa6051083bbf3011b231b">
+                        <AccessInfos />
+                        <ChildEntities />
+                      </Entity>
+                      <Entity type="Variables" subtype="StructuredText" id="6645c78d-5e29-4171-ba93-dc117f0425b4" name="Variables" version="0" dateCreated="12/06/2017 15:44:24" dateLastModified="12/06/2017 15:45:10" trackingId="47ffb3b5-7cf1-4844-83ba-bd939f638854" hash="ce8cfe1f92980dfab53aa10dbe712706">
+                        <AccessInfos />
+                        <ChildEntities>
+                          <Entity type="SourceHolder" subtype="" id="5890f5c9-86a3-4632-b0b5-ab6f0b906373" name="Source" version="0" dateCreated="12/06/2017 15:44:24" trackingId="6bd4c89d-c568-4920-9073-5342d3f7640c">
+                            <AccessInfos />
+                            <ChildEntities />
+                          </Entity>
+                        </ChildEntities>
+                      </Entity>
+                      <Entity type="PouBody" subtype="StructuredText" id="a1d57bac-9105-4dfa-9ec4-5c09bbd0eb94" name="Program Body" version="0.2" dateCreated="12/06/2017 15:44:24" dateLastModified="12/06/2017 15:45:10" trackingId="51102bbb-34af-4c5f-8c48-3664102ca114" hash="968490f2c8d4146479c1c4d1254a3ce0">
+                        <AccessInfos />
+                        <ChildEntities>
+                          <Entity type="SourceHolder" subtype="" id="7541152b-beab-4a9a-9591-315238ad531b" name="Source" version="0" dateCreated="12/06/2017 15:44:24" trackingId="fa39376d-4df5-4568-a9a7-bb6bfacf801a">
+                            <AccessInfos />
+                            <ChildEntities />
+                          </Entity>
+                          <Entity type="PouBodySourceHolder" subtype="" id="728b7b3e-f093-4d06-8e86-37969261498d" name="PouBodySourceHolder" version="0" dateCreated="12/06/2017 15:44:24" trackingId="f8ea9a23-c9ee-4789-81f8-10338f46f45e">
+                            <AccessInfos />
+                            <ChildEntities />
+                          </Entity>
+                        </ChildEntities>
+                      </Entity>
+                    </ChildEntities>
+                  </Entity>
                 </ChildEntities>
               </Entity>
               <Entity type="Group" subtype="IecFunctions" id="6f10f09e-7633-46ca-a40a-2cb62356c383" name="Functions" version="0" dateCreated="12/06/2017 13:46:48" trackingId="60eecba8-84d8-46df-8dc8-c3343936c4f6" DN="Functions">
